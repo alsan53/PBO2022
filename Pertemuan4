@@ -22,6 +22,6 @@ public class Pertemuan4 {
         System.out.println("Variable C adalah: " + nilaiC);
         
         System.out.println();
-        System.out.println("Alfin nur hasan,21201164"); 
+        System.out.println("Dikerjakan Oleh Alfin nur hasan, NIM 21201164"); 
     }
 }
